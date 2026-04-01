@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(18, 87, 156);
+}
+header{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(255, 61, 61);
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    color: white;
+    font-size: larger;
+    margin-top: 20px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: larger;
+}
+.zeda{
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.sga-card{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin: 20px;
+    border: 10px solid black;
+    border-radius: 10%;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: black;
+}
+.info-sga{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+p{
+    font-size: 25px;
+}
+.jokic-card{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin: 20px;
+    border: 10px solid black;
+    border-radius: 10%;
+}
+.cards-div{
+    display: flex;
+    justify-content: space-between;
+}
+.embiid-card{
+    width: 500px;
+    height: 700px;
+    background-color: white;
+    margin: 20px;
+    border: 10px solid black;
+    border-radius: 10%;
+}
