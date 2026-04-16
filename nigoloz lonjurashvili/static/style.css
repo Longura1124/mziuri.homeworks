@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+nav {
+    background-color: #3381ff;
+}
+.cardebi{
+    display: flex;
+    justify-content: space-around;
+}
